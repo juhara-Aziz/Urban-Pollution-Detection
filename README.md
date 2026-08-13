@@ -32,7 +32,7 @@ Given a road video as input, the system:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 | Property | Description |
 |---|---|
