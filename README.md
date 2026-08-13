@@ -81,11 +81,6 @@ The baseline model was built using **YOLO11n (YOLO11 Nano)**, a lightweight obje
 | **Test Images** | 900 |
 | **Classes** | 3 |
 
-### Model Classes
-
-0 → barriers
-1 → sidewalks
-2 → pothole
 
 ---
 
