@@ -83,7 +83,6 @@ The baseline model was built using **YOLO11n (YOLO11 Nano)**, a lightweight obje
 
 ### Model Classes
 
-```text
 0 → barriers
 1 → sidewalks
 2 → pothole
