@@ -103,13 +103,13 @@ Per-Class Performance
 | Sidewalks | **0.614** | **0.326** |
 | Barriers  | **0.474** | **0.317** |
 
-###Key Finding
+### Key Finding
 The pothole class achieved the strongest detection performance, while barriers achieved the lowest mAP50.
 This is consistent with the exploratory analysis: potholes represent the majority of annotations, while barriers are less represented and have considerably smaller bounding boxes.
 
 ---
 
-##Technologies
+## Technologies
 
 Python
 YOLO11n
@@ -123,7 +123,7 @@ Matplotlib
 
 ---
 
-##Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end computer vision pipeline for detecting visual pollution and road-related problems in Saudi public roads.
 
